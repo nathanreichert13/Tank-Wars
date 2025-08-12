@@ -20,10 +20,8 @@ Tecla de atirar L
 
 Objetivo: eliminar os tanques inimigos e sobreviver o máximo possível.
 
-Estrutura do Projeto
-java
-Copiar
-Editar
+##Estrutura do Projeto
+
 / (raiz)
 ├── Assets/             – imagens e sons do jogo
 ├── Css/                – arquivos CSS
@@ -35,6 +33,8 @@ Editar
 ├── main_tank.js        – lógica do jogo (inimigos, colisões, pontuação)
 ├── BackLog.xlsx        – planejamento ou tarefas do projeto
 └── Backlog.drawio.png  – diagrama de backlog ou arquitetura
+##
+
 Como Executar
 Clone o repositório:
 
